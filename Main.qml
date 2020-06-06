@@ -4,4 +4,8 @@ Item {
   y: 100
   width : parent.width
   height: parent.height
+  
+  function initialize() {
+    return true
+  }
 }
